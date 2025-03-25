@@ -1,0 +1,6 @@
+{
+    "module": "codbex-disposal-waste-ext/Waste/waste.js",
+    "extensionPoint": "codbex-assets-custom-action",
+    "description": "Waste Assets Custom Action",
+    "role": "codbex-assets.Disposal.DisposalReadOnly,codbex-assets.Disposal.DisposalFullAccess"
+}
